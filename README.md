@@ -1,4 +1,4 @@
-<h3>Hi there, I'm Yılmaz.</h3>
+<h1>Hi there, I'm Yılmaz.</h1>
 <body
 <div>
 <h2>I'm an Electrical and Electronics Engineering sophomore student in METU</h2>
