@@ -23,6 +23,6 @@
 <p><br><br></p>
 <h2>Stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yilmaz0734)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yilmaz0734&show_icons=true&theme=tokyonight)
 
 </body>
