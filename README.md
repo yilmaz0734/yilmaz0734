@@ -5,6 +5,7 @@
 <ul>
     <li>I have a passion for AI</li>
     <li>I'm developing GUI apps that provides automation to companies</li>
+    <li>I have a solid understanding of Tensorflow,OpenCV and other ML concepts</li>
     <li>I'm fluent in Python in Web,App,Data Science areas</li>
     <li>Goals: Learn Data Structures and Algorithms and Java until end of 2021.</li>
 </div>
