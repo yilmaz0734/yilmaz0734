@@ -24,6 +24,6 @@
 <p><br><br></p>
 <h2>Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yilmaz0734&show_icons=true&theme=tokyonight)
+
 
 </body>
