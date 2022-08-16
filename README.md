@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yılmaz</h1>
 <h3 align="center">EEE Student and Data Science Researcher from METU in Turkey</h3>
 
-- 🔭 I’m currently working on [UAV target detection software](https://github.com/yilmaz0734/auto-mission-updater-opencv)
-
 - 🌱 I’m currently learning **C/C++,Signal Processing,Embedded Systems**
+
+- 🔭 I’m currently working on [UAV target detection software](https://github.com/yilmaz0734/auto-mission-updater-opencv)
 
 - 👯 I’m starting an internship about [Embedded systems](https://github.com/yilmaz0734/embed-sources-examples)
 
@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/yilmaz-guney-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yilmaz-guney-ai" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/emirhan-y%c4%b1lmaz-g%c3%bcney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="emirhan-y%c4%b1lmaz-g%c3%bcney" height="30" width="40" /></a>
 <a href="https://instagram.com/emirhanyilmazguney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emirhanyilmazguney" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucbz90epiy0y-zk2uhbrmywa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbz90epiy0y-zk2uhbrmywa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCbZ90EPiY0Y-zk2UhbrmYwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbz90epiy0y-zk2uhbrmywa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/emirhanyilmazgu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emirhanyilmazgu1" height="30" width="40" /></a>
 </p>
 
