@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yılmaz</h1>
 <h3 align="center">EEE Student and Data Science Researcher from METU in Turkey</h3>
 
-- 🔭 I’m currently working on [UAV target detection software](https://github.com/yilmaz0734/auto-mission-updater-opencv)
-
 - 🌱 I’m currently learning **C/C++,Signal Processing,Embedded Systems**
+
+- 🔭 I’m currently working on [UAV target detection software](https://github.com/yilmaz0734/auto-mission-updater-opencv)
 
 - 👯 I’m starting an internship about [Embedded systems](https://github.com/yilmaz0734/embed-sources-examples)
 
